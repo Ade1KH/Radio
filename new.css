@@ -18,35 +18,23 @@ a {
 }
 .row {
     display: flex;
-    text-align: center;
-    margin-bottom: 20px;
-    font-size: 20px;
-    padding-top: 10px;
+    font-size: 15px;
     cursor: pointer;
-}
-.btn1:hover {
-    opacity: 0.9;
-}
-.btn2:hover {
-    opacity: 0.9;
-}
-.btn3:hover {
-    opacity: 0.9;
-}    
-h1{
-    margin: 15px;
-    width: 100%;
-}
-h2{
-    margin: 15px;
-    width: 100%;
     
 }
-.footer a{
-    margin: 20px;
-    width: 100%;
+.btn1:hover {
+    opacity: 0.7;
+}    
+h1,h2 {
+    margin-right: 20px;  
+    margin-left: 10px; 
+}
+
+.footer {
+    display: flex;
 }
 ul{
     list-style: none;
 }
+
 
